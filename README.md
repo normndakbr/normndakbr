@@ -1,4 +1,4 @@
-<h1 align="center">Gotha! You've found me, nice to meet you :smile:</h1>
+<h1 align="center">Gotha! You've found me</h1>
 
 <h1 align="center"> 
   <img src="https://cdn2.bulbagarden.net/upload/thumb/a/a5/159Croconaw.png/250px-159Croconaw.png" height="100" width="100"/> 
