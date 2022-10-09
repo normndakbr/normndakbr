@@ -2,7 +2,8 @@
 
 <h1 align="center"> 
   <img src="https://cdn2.bulbagarden.net/upload/thumb/a/a5/159Croconaw.png/250px-159Croconaw.png" height="100" width="100"/> 
-  <img src="https://cdn2.bulbagarden.net/upload/thumb/3/38/884Duraludon.png/250px-884Duraludon.png" height="100" width="100"/> 
+  <img src="https://cdn2.bulbagarden.net/upload/thumb/1/1c/674Pancham.png/250px-674Pancham.png" height="100" width="100"/> 
+  <!-- <img src="https://cdn2.bulbagarden.net/upload/thumb/3/38/884Duraludon.png/250px-884Duraludon.png" height="100" width="100"/>  -->
   <img src="https://cdn2.bulbagarden.net/upload/thumb/0/0b/028Sandslash.png/250px-028Sandslash.png" height="100" width="100"/>
 <!--   <img src="https://cdn2.bulbagarden.net/upload/thumb/a/a9/061Poliwhirl.png/250px-061Poliwhirl.png" height="100" width="100"/> -->
   <img src="https://cdn2.bulbagarden.net/upload/thumb/9/9b/778Mimikyu.png/250px-778Mimikyu.png" height="100" width="100"/>
