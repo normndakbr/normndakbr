@@ -12,6 +12,6 @@
   <img src="https://cdn2.bulbagarden.net/upload/thumb/0/0c/008Wartortle.png/250px-008Wartortle.png" height="100" width="100" />
   <img src="https://cdn2.bulbagarden.net/upload/thumb/3/3d/197Umbreon.png/250px-197Umbreon.png" height="100" width="100" />
   <img src="https://cdn2.bulbagarden.net/upload/thumb/1/16/646Kyurem-Black.png/250px-646Kyurem-Black.png" height="100" width="100" />
-    <img src="https://cdn2.bulbagarden.net/upload/thumb/6/67/658Greninja.png/250px-658Greninja.png" height="100" width="100" />
+    <img src="https://cdn2.bulbagarden.net/upload/thumb/8/8e/607Litwick.png/250px-607Litwick.png" height="100" width="100" />
 </h1>
 
