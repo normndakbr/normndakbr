@@ -1,7 +1,7 @@
 <h1 align="center">Gotcha! You've found me</h1>
 
 <h1 align="center"> 
-  <img src="https://img.pokemondb.net/sprites/red-blue/normal/charizard.png" height="100" width="100"/> 
+  <img src="https://archives.bulbagarden.net/wiki/File:Spr_1b_028.png#/media/File:Spr_1b_028.png" height="100" width="100"/> 
   <img src="https://cdn2.bulbagarden.net/upload/thumb/6/67/658Greninja.png/250px-658Greninja.png" height="100" width="100"/> 
   <img src="https://cdn2.bulbagarden.net/upload/thumb/3/38/884Duraludon.png/250px-884Duraludon.png" height="100" width="100"/> 
   <img src="https://cdn2.bulbagarden.net/upload/thumb/0/0b/028Sandslash.png/250px-028Sandslash.png" height="100" width="100"/>
