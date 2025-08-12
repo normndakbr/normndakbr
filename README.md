@@ -6,6 +6,7 @@
   <img src="https://archives.bulbagarden.net/media/upload/5/58/Spr_3r_093.png" height="100" width="100"/> 
   <img src="https://archives.bulbagarden.net/media/upload/5/54/Spr_3r_375.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/7/7c/Spr_3r_159.png" height="100" width="100"/>
+  <img src="https://archives.bulbagarden.net/media/upload/2/28/Spr_5b_159.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/b/be/Spr_5b_376.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/e/e3/Spr_3f_061.png" height="100" width="100"/>
 <!--   <img src="https://archives.bulbagarden.net/media/upload/8/80/Spr_3f_122.png" height="100" width="100"/> -->
