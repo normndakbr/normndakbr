@@ -1,7 +1,6 @@
 <h1 align="center">Gotcha! You've found me</h1>
 
 <h1 align="center"> 
-  <img src="https://archives.bulbagarden.net/media/upload/d/dc/Spr_2c_136.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/0/05/Spr_5b_155.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/2/28/Spr_5b_159.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/b/be/Spr_5b_376.png" height="100" width="100"/>
