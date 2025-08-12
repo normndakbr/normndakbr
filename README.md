@@ -10,6 +10,7 @@
   <img src="https://archives.bulbagarden.net/media/upload/6/62/Spr_5b_061.png" height="100" width="100"/>
   
   <img src="https://archives.bulbagarden.net/media/upload/0/05/Spr_5b_155.png" height="100" width="100"/>
+  <img src="https://archives.bulbagarden.net/media/upload/6/6d/Spr_5b_470.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/4/40/Spr_5b_143.png" height="100" width="100"/>
   <img src="https://archives.bulbagarden.net/media/upload/1/19/Spr_5b_103.png" height="100" width="100"/>
 <!--   <img src="https://archives.bulbagarden.net/media/upload/8/80/Spr_3f_122.png" height="100" width="100"/> -->
