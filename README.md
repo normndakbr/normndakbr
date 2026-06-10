@@ -15,7 +15,7 @@
   <img src="https://archives.bulbagarden.net/media/upload/4/45/Spr_5b_082.png" height="100" width="100"/>
   <!-- <img src="https://archives.bulbagarden.net/media/upload/4/4a/Spr_5b_235.png" height="100" width="100"/> -->
   <img src="https://archives.bulbagarden.net/media/upload/1/11/Spr_5b_197_s.png" height="100" width="100"/>
-  <img src="https://archives.bulbagarden.net/media/upload/1/19/Spr_5b_103.png" height="100" width="100"/>
+<!--  <img src="https://archives.bulbagarden.net/media/upload/1/19/Spr_5b_103.png" height="100" width="100"/> -->
 <!--   <img src="https://archives.bulbagarden.net/media/upload/8/80/Spr_3f_122.png" height="100" width="100"/> -->
 </h1>
 
